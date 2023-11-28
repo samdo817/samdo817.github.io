@@ -1,0 +1,25 @@
+.image {
+  text-align: center;
+  height: auto;
+  font-family: "Work Sans", sans-serif;
+  color: white;
+}
+.judul {
+  font-family: "Sacramento", cursive;
+  font-size: 3rem;
+}
+
+.fonts {
+  font-size: 1.3rem;
+  font-style: italic;
+  color: white;
+}
+
+.foto {
+  height: 290px;
+  width: 850x;
+}
+
+.body {
+  size: 1000px;
+}
