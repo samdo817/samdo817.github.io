@@ -1599,6 +1599,7 @@ bottom: 75px;
   position: relative;
   height: 10px;
   width: auto;
+  whitespace: nowrap;
 }
 }
 /*project*/
