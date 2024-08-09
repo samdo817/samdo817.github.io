@@ -1640,5 +1640,7 @@ bottom: 75px;
     position: relative;
     display: inline-flex;
     left: 0;
+    whitespace: nowrap;
+    justify-align: center;
   }
 }
