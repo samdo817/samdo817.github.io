@@ -1306,10 +1306,6 @@ bottom: 75px;
   .lets{
     right: 90px;
   }
-  .hire{
-    left: 35px;
-  }
-
   .person-home{
     width: 200px;
     height: 200px;
@@ -1337,7 +1333,7 @@ bottom: 75px;
   position: relative;
   right: 180px;
   bottom: 280px;
-  padding-top: 120px;
+  padding-top: 220px;
   }
 
   .about-content h2{
